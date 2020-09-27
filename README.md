@@ -42,11 +42,11 @@ We use [GitKraken](https://www.gitkraken.com/) and [Android Studio](https://deve
 - Zach Wilson
 - Andrew Munoz 
 - Leslie Gurrola 
-
+aaa
 ## License
 
 This project is licensed under the GNU GPLv3 license - see the [LICENSE.md](https://github.com/zachspiel/ChoreTrackerApp/blob/master/LICENSE) file for details
-
+aa
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
